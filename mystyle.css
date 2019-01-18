@@ -20,7 +20,7 @@ img {
   margin-left: auto;
 }
 
-button {
+button #main {
   background-color: white;
   width: 350px;
   padding: 15px 32px;
@@ -34,5 +34,14 @@ button {
 }
 
 button #nav {
+  background-color: white;
   width: 145px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  text-color: black;
+  border: 3px light grey;
+  border-radius: 8px;
+  font-family: 'Libre Franklin', sans-serif;
 }
